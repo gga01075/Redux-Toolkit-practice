@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Redux-Toolkit-practice/static/css/main.0d96a1b1.chunk.css",
+    "main.js": "/Redux-Toolkit-practice/static/js/main.f9784262.chunk.js",
+    "main.js.map": "/Redux-Toolkit-practice/static/js/main.f9784262.chunk.js.map",
+    "runtime-main.js": "/Redux-Toolkit-practice/static/js/runtime-main.1f707994.js",
+    "runtime-main.js.map": "/Redux-Toolkit-practice/static/js/runtime-main.1f707994.js.map",
+    "static/js/2.9c4ef49e.chunk.js": "/Redux-Toolkit-practice/static/js/2.9c4ef49e.chunk.js",
+    "static/js/2.9c4ef49e.chunk.js.map": "/Redux-Toolkit-practice/static/js/2.9c4ef49e.chunk.js.map",
+    "index.html": "/Redux-Toolkit-practice/index.html",
+    "static/css/main.0d96a1b1.chunk.css.map": "/Redux-Toolkit-practice/static/css/main.0d96a1b1.chunk.css.map",
+    "static/js/2.9c4ef49e.chunk.js.LICENSE.txt": "/Redux-Toolkit-practice/static/js/2.9c4ef49e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f707994.js",
+    "static/js/2.9c4ef49e.chunk.js",
+    "static/css/main.0d96a1b1.chunk.css",
+    "static/js/main.f9784262.chunk.js"
+  ]
+}
